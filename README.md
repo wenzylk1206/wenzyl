@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wenzylking
 - 👀 I’m interested in Softwares and ethical hacking
-- 🌱 I’m currently learning Class 11
+- 🌱 Diploma in Computer Science 
 - 📫 How to reach me wenzylking@gmail.com
 
 <!---
