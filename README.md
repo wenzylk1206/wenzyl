@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wenzylking
+- 👋 Hi, I’m @wenzylk1206
 - 👀 I’m interested in Softwares and ethical hacking
 - 🌱 Diploma in Computer Science 
 - 📫 How to reach me wenzylking@gmail.com
